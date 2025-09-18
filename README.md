@@ -1,1 +1,1 @@
-# Project---Iot-Smart-Chair-Kit-
+# Project - IOT SMART CHAIR KIT
