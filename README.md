@@ -116,9 +116,9 @@ Feel free to fork this repo and improve the project.
 ## 📬 Contact  
 
 👤 **Omkar Yelsange**  
-📧 [Email:](mailto:omkaryelsange1010@gmail.com)  
-🔗 [GitHub:](https://github.com/OmkarYelsange)  
-💼 [LinkedIn:](https://linkedin.com/in/omkar-yelsange)  
+📧 [Email](mailto:omkaryelsange1010@gmail.com)  
+🔗 [GitHub](https://github.com/OmkarYelsange)  
+💼 [LinkedIn](https://linkedin.com/in/omkar-yelsange)  
 
 ---
 
