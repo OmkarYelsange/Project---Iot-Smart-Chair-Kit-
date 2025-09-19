@@ -97,11 +97,11 @@ Built with **ESP32, Arduino, multiple sensors, and IoT integration (Blynk Dashbo
 ---
 
 IoT-Smart-Chair-Kit/
-│── 📁 code/ # Arduino & ESP32 programs
-│── 📁 circuit/ # Circuit diagrams & schematics
-│── 📁 images/ # Project photos
-│── 📁 docs/ # Research paper, reports & presentations
-│── README.md # Project Documentation
+│── 📁 code/ # Arduino & ESP32 programs.
+│── 📁 circuit/ # Circuit diagrams & schematics.
+│── 📁 images/ # Project photos.
+│── 📁 docs/ # Research paper, reports & presentations.
+│── README.md # Project Documentation.
 
 
 ---
@@ -116,13 +116,12 @@ Feel free to fork this repo and improve the project.
 ## 📬 Contact  
 
 👤 **Omkar Yelsange**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: [your-email@example.com](mailto:omkaryelsange1010@gmail.com)  
 🔗 GitHub: [OmkarYelsange](https://github.com/OmkarYelsange)  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/omkar-yelsange)  
 
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!  
-
-## 📂 Project Structure  
+ 
 
